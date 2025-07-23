@@ -1,7 +1,7 @@
 
 * Live Weather Forecast App
   ->This is a responsive web application that provides real-time weather updates using the OpenWeatherMap API.
-  ->It allows users to search for any city and view detailed weather data, air quality information, and a 5-day forecast in a clean, visually appealing UI.
+  It allows users to search for any city and view detailed weather data, air quality information, and a 5-day forecast in a clean, visually appealing UI.
 
 * Features
   -> Live Weather Details (Temperature, Conditions, Pressure, Humidity, etc.)
